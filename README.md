@@ -1,1 +1,3 @@
-# LLM-Watermark-Attacks
+# Attacking LLM Watermarks by Exploiting Their Strengths
+
+Code coming soon!
