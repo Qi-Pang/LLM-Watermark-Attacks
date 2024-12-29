@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+-e git+https://github.com/Qi-Pang/transformers.git@v4.33.3.1#egg=transformers
+scipy
+nltk
+accelerate
+openai
+stanza
