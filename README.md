@@ -26,8 +26,8 @@ pip install -r requirements.txt
 
 ----
 #### Current Progress
-* **KGW Watermark**: Code is mostly cleaned and ready for use.
-* **Unigram, Exp, and Watermark Stealing**: Code cleaning is in progress. Stay tuned for updates.
+* **KGW and Unigram watermarks**: Code is mostly cleaned and ready for use.
+* **Exp, and Watermark Stealing**: Code cleaning is in progress. Stay tuned for updates.
 ----
 
 #### Reference
