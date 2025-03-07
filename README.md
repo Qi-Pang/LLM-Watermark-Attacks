@@ -2,8 +2,7 @@
 
 ----
 
-This repository contains the implementation of NeurIPS 2024 paper, [*No Free Lunch in LLM Watermarking: Trade-offs in Watermarking Design Choices.*](https://openreview.net/pdf?id=rIOl7KbSkv])
-
+This repository contains the implementation of NeurIPS 2024 paper, [*No Free Lunch in LLM Watermarking: Trade-offs in Watermarking Design Choices.*](https://openreview.net/pdf?id=rIOl7KbSkv)
 
 ----
 
@@ -23,11 +22,6 @@ conda activate llmwmatt
 pip install -r requirements.txt
 
 ```
-
-----
-#### Current Progress
-* **KGW and Unigram watermarks**: Code is mostly cleaned and ready for use.
-* **Exp, and Watermark Stealing**: Code cleaning is in progress. Stay tuned for updates.
 ----
 
 #### Reference
